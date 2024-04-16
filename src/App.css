@@ -1,0 +1,12 @@
+.tic-tac{
+  margin-top: 200px;
+ max-width: 700px;
+  display: block;
+  margin: 0 auto;
+}
+button{
+  padding:16px 32px;
+  color: blue;
+
+
+}
